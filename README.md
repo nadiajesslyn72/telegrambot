@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Ganti dengan token bot kamu dari BotFather
-BOT_TOKEN = "ISI_TOKEN_BOTMU_DI_SINI"
+BOT_TOKEN = "8499837413:AAHSgIdN6FQMUc9PxStbOhdfNgznKjPjrnM"
 
 # Fungsi untuk command /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
